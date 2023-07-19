@@ -2,7 +2,9 @@
 ## About Me
 ```
 弱鸡
-ID ： RuoJi6 
+ID ： RuoJi6
+博客：https://taoyuan.cool/
+哔哩哔哩：https://space.bilibili.com/479236595
 ```
 <br/><br/>
   <p align="center">
