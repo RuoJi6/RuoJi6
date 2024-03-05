@@ -23,10 +23,11 @@ ID ： RuoJi6
     <img src="https://img.shields.io/badge/WeChat-vivo50KFCKFC-black">
 </p>
 
-
+<center>
 <a href="https://github.com/RuoJi6">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=RuoJi6"/>
 </a>
 <a href="https://github.com/RuoJi6/HackerPermKeeper/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuoJi6&layout=compact&langs_count=8&card_width=320" />
 </a>
+</center>
