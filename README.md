@@ -5,7 +5,6 @@
 ID ： RuoJi6
 博客：https://www.ruojisec.com/
 技术文档：http://wiki.ruojisec.com:3000/#/
-哔哩哔哩：https://space.bilibili.com/479236595
 ```
 <br/><br/>
   <p align="center">
