@@ -20,7 +20,6 @@ ID ： RuoJi6
       <a href="http://wiki.ruojisec.com:3000/#/">
       <img alt="GitHub Contributors" src="https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E6%A0%88-wiki-purple" />
     </a>
-    <img src="https://img.shields.io/badge/WeChat-vivo50KFCKFC-black">
 </p>
 
 <center>
