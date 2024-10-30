@@ -4,7 +4,7 @@
 弱鸡
 ID ： RuoJi6
 博客：https://www.ruojisec.com/
-技术文档：http://wiki.ruojisec.com:3000/#/
+技术文档：https://wiki.ruojisec.com/#/
 ```
 <br/><br/>
   <p align="center">
