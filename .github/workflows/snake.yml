@@ -2,7 +2,6 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # 每天 UTC 18:00（北京时间 / 日本时间 = 次日 03:00）
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -11,10 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate snake (full → eat → empty)
         uses: Platane/snk@v3
         with:
           github_user_name: RuoJi6
+          animation_type: deleting
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
