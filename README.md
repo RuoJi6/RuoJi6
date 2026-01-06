@@ -5,20 +5,45 @@
 ID ： RuoJi6
 博客：https://ruoji6.github.io/
 ```
-<a href="https://github.com/RuoJi6">
-<center><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuoJi6&layout=compact&langs_count=8&card_width=320" /></center>
-</a>
 
-<br/>
-<br/>
 
-<table>
-    <tr>
-        <td >
-            <a href="https://github.com/RuoJi6"><center><img src="https://github-readme-stats.vercel.app/api?username=RuoJi6&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center></a>
-        </td>
-        <td >
-            <a href="https://github.com/RuoJi6"><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuoJi6&theme=github_dark&show_icons=true" align="right" /></center></a>
-        </td>
-    </tr>
-</table>
+---
+
+## 📊 GitHub Overview
+
+<img src="./metrics.svg" alt="GitHub Metrics" />
+
+---
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RuoJi6/RuoJi6/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RuoJi6/RuoJi6/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/RuoJi6/RuoJi6/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<img
+  src="./profile-3d-contrib/profile-night-view.svg"
+  alt="3D Contribution Graph"
+/>
+
+---
+
+## 🔗 Links
+
+- Blog：<https://ruoji6.github.io/>
+- GitHub：<https://github.com/RuoJi6>
