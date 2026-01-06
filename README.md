@@ -7,14 +7,6 @@ ID ： RuoJi6
 ```
 
 
----
-
-## 📊 GitHub Overview
-
-<img src="./metrics.svg" alt="GitHub Metrics" />
-
----
-
 ## 🐍 Contribution Activity
 
 <picture>
@@ -32,18 +24,3 @@ ID ： RuoJi6
   />
 </picture>
 
----
-
-## 🧊 3D Contribution Graph
-
-<img
-  src="./profile-3d-contrib/profile-night-view.svg"
-  alt="3D Contribution Graph"
-/>
-
----
-
-## 🔗 Links
-
-- Blog：<https://ruoji6.github.io/>
-- GitHub：<https://github.com/RuoJi6>
